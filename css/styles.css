@@ -177,7 +177,6 @@ img {
 .about-me{
   display: flex;
   flex-direction: row;
-  height: 100vh;
 }
 .about-me-image > img{
   height: 100vh;
